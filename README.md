@@ -1,4 +1,4 @@
-# Hola, soy Juan 👋
+
 
 💻 Estudiante de programación
 
