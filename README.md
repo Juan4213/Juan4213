@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hola, soy Juan 👋
 
-<!--
-**Juan4213/Juan4213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de programación
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hola, soy Juan 👋
+
+💻 Estudiante de programación
+
+### 🚀 Lenguajes que aprendí
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+</p>
+
+### 📚 Actualmente aprendiendo
+
+- HTML
+- CSS
+- JavaScript
+
+### 🎯 Objetivo
+
+Seguir aprendiendo programación y desarrollando nuevos proyectos.
+
+
+## 📚 Actualmente aprendiendo
+
+- HTML
+- CSS
+- JavaScript
+- Programación
+
+## 📫 Mi GitHub
+
+¡Bienvenido a mi perfil!
